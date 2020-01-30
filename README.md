@@ -1,6 +1,9 @@
 # quobject_learning_path_science_high_school_7_to_10_en_us
 High School Science 7-10 Quobject Learning Path
 
+Note: Quizzes might contain errors and copyrighted work and are for educational purposes only. 
+After the prototype phase copyright issues will be resolved. If you find any errors please raise an issue here: [Issues](https://github.com/Quobject/quobject_learning_path_science_high_school_7_to_10_en_us/issues)
+
 ## Physical Science 01 Introduction to Matter
 #### Search Terms:
  atom,chemical bond,chemical change,chemical energy,chemical formula,chemical property,chemistry,compound,density,endothermic change,exothermic change,International System of Units,law of conservation of mass,mass,matter,mixture,molecule,physical change,physical property,substance,temperature,thermal energy,volume,weight
@@ -17,6 +20,7 @@ High School Science 7-10 Quobject Learning Path
 [PS_02_Solids_Liquids_and_Gases_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_02_Solids_Liquids_and_Gases_1.quiz)<br>
 [PS_02_Solids_Liquids_and_Gases_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_02_Solids_Liquids_and_Gases_2.quiz)<br>
 [PS_02_Solids_Liquids_and_Gases_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_02_Solids_Liquids_and_Gases_3.quiz)<br>
+[PS_02_Solids_Liquids_and_Gases_4.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_02_Solids_Liquids_and_Gases_4.quiz)<br>
 
 
 ## Physical Science 03 Elements and the Periodic Table
@@ -26,6 +30,7 @@ High School Science 7-10 Quobject Learning Path
 [PS_03_Elements_and_the_Periodic_Table_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_03_Elements_and_the_Periodic_Table_1.quiz)<br>
 [PS_03_Elements_and_the_Periodic_Table_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_03_Elements_and_the_Periodic_Table_2.quiz)<br>
 [PS_03_Elements_and_the_Periodic_Table_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_03_Elements_and_the_Periodic_Table_3.quiz)<br>
+[PS_03_Elements_and_the_Periodic_Table_4.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_03_Elements_and_the_Periodic_Table_4.quiz)<br>
 
 
 ## Physical Science 04 Atoms and Bonding
@@ -43,7 +48,6 @@ High School Science 7-10 Quobject Learning Path
 
 [PS_05_Chemical_Reactions_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_05_Chemical_Reactions_1.quiz)<br>
 [PS_05_Chemical_Reactions_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_05_Chemical_Reactions_2.quiz)<br>
-[PS_05_Chemical_Reactions_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_05_Chemical_Reactions_3.quiz)<br>
 
 
 ## Physical Science 06 Acids, Bases, and Solutions
@@ -61,7 +65,6 @@ High School Science 7-10 Quobject Learning Path
 
 [PS_07_Motion_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_07_Motion_1.quiz)<br>
 [PS_07_Motion_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_07_Motion_2.quiz)<br>
-[PS_07_Motion_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_07_Motion_3.quiz)<br>
 
 
 ## Physical Science 08 Forces
@@ -70,7 +73,6 @@ High School Science 7-10 Quobject Learning Path
 
 [PS_08_Forces_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_08_Forces_1.quiz)<br>
 [PS_08_Forces_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_08_Forces_2.quiz)<br>
-[PS_08_Forces_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_08_Forces_3.quiz)<br>
 
 
 ## Physical Science 09 Work and Machines
@@ -88,7 +90,6 @@ High School Science 7-10 Quobject Learning Path
 
 [PS_10_Energy_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_10_Energy_1.quiz)<br>
 [PS_10_Energy_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_10_Energy_2.quiz)<br>
-[PS_10_Energy_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_10_Energy_3.quiz)<br>
 
 
 ## Physical Science 11 Thermal Energy and Heat
@@ -97,8 +98,6 @@ High School Science 7-10 Quobject Learning Path
 
 [PS_11_Thermal_Energy_and_Heat_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_11_Thermal_Energy_and_Heat_1.quiz)<br>
 [PS_11_Thermal_Energy_and_Heat_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_11_Thermal_Energy_and_Heat_2.quiz)<br>
-[PS_11_Thermal_Energy_and_Heat_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_11_Thermal_Energy_and_Heat_3.quiz)<br>
-
 
 ## Physical Science 12 Characteristics of Waves
 #### Search Terms:
@@ -106,7 +105,6 @@ High School Science 7-10 Quobject Learning Path
 
 [PS_12_Characteristics_of_Waves_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_12_Characteristics_of_Waves_1.quiz)<br>
 [PS_12_Characteristics_of_Waves_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_12_Characteristics_of_Waves_2.quiz)<br>
-[PS_12_Characteristics_of_Waves_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_12_Characteristics_of_Waves_3.quiz)<br>
 
 
 ## Physical Science 13 Sound
@@ -115,7 +113,6 @@ High School Science 7-10 Quobject Learning Path
 
 [PS_13_Sound_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_13_Sound_1.quiz)<br>
 [PS_13_Sound_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_13_Sound_2.quiz)<br>
-[PS_13_Sound_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_13_Sound_3.quiz)<br>
 
 
 ## Physical Science 14 Electromagnetic Waves
@@ -134,6 +131,7 @@ High School Science 7-10 Quobject Learning Path
 [PS_15_Light_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_15_Light_1.quiz)<br>
 [PS_15_Light_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_15_Light_2.quiz)<br>
 [PS_15_Light_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_15_Light_3.quiz)<br>
+[PS_15_Light_4.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/PS_15_Light_4.quiz)<br>
 
 
 ## Physical Science 16 Electricity
@@ -178,7 +176,6 @@ High School Science 7-10 Quobject Learning Path
 
 [LS_03_Cell_Processes_and_Energy_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_03_Cell_Processes_and_Energy_1.quiz)<br>
 [LS_03_Cell_Processes_and_Energy_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_03_Cell_Processes_and_Energy_2.quiz)<br>
-[LS_03_Cell_Processes_and_Energy_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_03_Cell_Processes_and_Energy_3.quiz)<br>
 
 
 ## Life Science 04 Genetics The Science of Heredity
@@ -187,7 +184,6 @@ High School Science 7-10 Quobject Learning Path
 
 [LS_04_Genetics_The_Science_of_Heredity_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_04_Genetics_The_Science_of_Heredity_1.quiz)<br>
 [LS_04_Genetics_The_Science_of_Heredity_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_04_Genetics_The_Science_of_Heredity_2.quiz)<br>
-[LS_04_Genetics_The_Science_of_Heredity_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_04_Genetics_The_Science_of_Heredity_3.quiz)<br>
 
 
 ## Life Science 05 DNA The Code of Life
@@ -196,7 +192,6 @@ High School Science 7-10 Quobject Learning Path
 
 [LS_05_DNA_The_Code_of_Life_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_05_DNA_The_Code_of_Life_1.quiz)<br>
 [LS_05_DNA_The_Code_of_Life_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_05_DNA_The_Code_of_Life_2.quiz)<br>
-[LS_05_DNA_The_Code_of_Life_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_05_DNA_The_Code_of_Life_3.quiz)<br>
 
 
 ## Life Science 06 Change Over Time
@@ -205,7 +200,6 @@ High School Science 7-10 Quobject Learning Path
 
 [LS_06_Change_Over_Time_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_06_Change_Over_Time_1.quiz)<br>
 [LS_06_Change_Over_Time_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_06_Change_Over_Time_2.quiz)<br>
-[LS_06_Change_Over_Time_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_06_Change_Over_Time_3.quiz)<br>
 
 
 ## Life Science 07 Viruses, Bacteria, Protists, and Fungi
@@ -232,7 +226,6 @@ High School Science 7-10 Quobject Learning Path
 
 [LS_09_Introduction_to_Animals_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_09_Introduction_to_Animals_1.quiz)<br>
 [LS_09_Introduction_to_Animals_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_09_Introduction_to_Animals_2.quiz)<br>
-[LS_09_Introduction_to_Animals_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_09_Introduction_to_Animals_3.quiz)<br>
 
 
 ## Life Science 10 Animal Life Processes
@@ -286,7 +279,6 @@ High School Science 7-10 Quobject Learning Path
 
 [LS_15_Populations_and_Communities_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_15_Populations_and_Communities_1.quiz)<br>
 [LS_15_Populations_and_Communities_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_15_Populations_and_Communities_2.quiz)<br>
-[LS_15_Populations_and_Communities_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_15_Populations_and_Communities_3.quiz)<br>
 
 
 ## Life Science 16 Ecosystems and Biomes
@@ -313,7 +305,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_02_Minerals_and_Rocks_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_02_Minerals_and_Rocks_1.quiz)<br>
 [ES_02_Minerals_and_Rocks_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_02_Minerals_and_Rocks_2.quiz)<br>
-[ES_02_Minerals_and_Rocks_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_02_Minerals_and_Rocks_3.quiz)<br>
 
 
 ## Earth Science 03 Plate Tectonics
@@ -322,7 +313,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_03_Plate_Tectonics_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_03_Plate_Tectonics_1.quiz)<br>
 [ES_03_Plate_Tectonics_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_03_Plate_Tectonics_2.quiz)<br>
-[ES_03_Plate_Tectonics_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_03_Plate_Tectonics_3.quiz)<br>
 
 
 ## Earth Science 04 Earthquakes
@@ -331,7 +321,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_04_Earthquakes_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_04_Earthquakes_1.quiz)<br>
 [ES_04_Earthquakes_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_04_Earthquakes_2.quiz)<br>
-[ES_04_Earthquakes_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_04_Earthquakes_3.quiz)<br>
 
 
 ## Earth Science 05 Volcanoes
@@ -340,7 +329,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_05_Volcanoes_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_05_Volcanoes_1.quiz)<br>
 [ES_05_Volcanoes_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_05_Volcanoes_2.quiz)<br>
-[ES_05_Volcanoes_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_05_Volcanoes_3.quiz)<br>
 
 
 ## Earth Science 06 Weathering and Soil
@@ -349,7 +337,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_06_Weathering_and_Soil_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_06_Weathering_and_Soil_1.quiz)<br>
 [ES_06_Weathering_and_Soil_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_06_Weathering_and_Soil_2.quiz)<br>
-[ES_06_Weathering_and_Soil_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_06_Weathering_and_Soil_3.quiz)<br>
 
 
 ## Earth Science 07 Erosion and Deposition
@@ -358,7 +345,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_07_Erosion_and_Deposition_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_07_Erosion_and_Deposition_1.quiz)<br>
 [ES_07_Erosion_and_Deposition_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_07_Erosion_and_Deposition_2.quiz)<br>
-[ES_07_Erosion_and_Deposition_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_07_Erosion_and_Deposition_3.quiz)<br>
 
 
 ## Earth Science 08 A Trip Through Geologic Time
@@ -376,7 +362,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_09_Energy_Resources_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_09_Energy_Resources_1.quiz)<br>
 [ES_09_Energy_Resources_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_09_Energy_Resources_2.quiz)<br>
-[ES_09_Energy_Resources_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_09_Energy_Resources_3.quiz)<br>
 
 
 ## Earth Science 10 Water
@@ -385,7 +370,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_10_Water_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_10_Water_1.quiz)<br>
 [ES_10_Water_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_10_Water_2.quiz)<br>
-[ES_10_Water_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_10_Water_3.quiz)<br>
 
 
 ## Earth Science 11 The Atmosphere
@@ -412,7 +396,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_13_Climate_and_Climate_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_13_Climate_and_Climate_1.quiz)<br>
 [ES_13_Climate_and_Climate_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_13_Climate_and_Climate_2.quiz)<br>
-[ES_13_Climate_and_Climate_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_13_Climate_and_Climate_3.quiz)<br>
 
 
 ## Earth Science 14 Earth, Moon, and Sun
@@ -421,7 +404,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_14_Earth_Moon_and_Sun_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_14_Earth_Moon_and_Sun_1.quiz)<br>
 [ES_14_Earth_Moon_and_Sun_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_14_Earth_Moon_and_Sun_2.quiz)<br>
-[ES_14_Earth_Moon_and_Sun_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_14_Earth_Moon_and_Sun_3.quiz)<br>
 
 
 ## Earth Science 15 The Solar System
@@ -439,7 +421,6 @@ High School Science 7-10 Quobject Learning Path
 
 [ES_16_Stars_Galaxies_and_the_Universe_1.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_16_Stars_Galaxies_and_the_Universe_1.quiz)<br>
 [ES_16_Stars_Galaxies_and_the_Universe_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_16_Stars_Galaxies_and_the_Universe_2.quiz)<br>
-[ES_16_Stars_Galaxies_and_the_Universe_3.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/ES_16_Stars_Galaxies_and_the_Universe_3.quiz)<br>
 
 
 ## Earth Science 17 Land, Air, and Water Resources
