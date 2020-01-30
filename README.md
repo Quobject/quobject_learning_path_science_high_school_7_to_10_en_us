@@ -4,6 +4,9 @@ High School Science 7-10 Quobject Learning Path
 Note: Quizzes might contain errors and copyrighted work and are for educational purposes only. 
 After the prototype phase copyright issues will be resolved. If you find any errors please raise an issue here: [Issues](https://github.com/Quobject/quobject_learning_path_science_high_school_7_to_10_en_us/issues)
 
+Download all [here](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/quobject_learning_path_science_high_school_7_to_10_en_us 20.01.zip
+)
+
 ## Physical Science 01 Introduction to Matter
 #### Search Terms:
  atom,chemical bond,chemical change,chemical energy,chemical formula,chemical property,chemistry,compound,density,endothermic change,exothermic change,International System of Units,law of conservation of mass,mass,matter,mixture,molecule,physical change,physical property,substance,temperature,thermal energy,volume,weight
