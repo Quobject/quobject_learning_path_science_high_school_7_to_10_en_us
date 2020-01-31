@@ -1,6 +1,7 @@
 # quobject_learning_path_science_high_school_7_to_10_en_us
 High School Science 7-10 Quobject Learning Path
-[Issues Please help us improve this learning path](https://github.com/Quobject/quobject_learning_path_science_high_school_7_to_10_en_us/issues)
+You can help improve this Learning Path by giving us feedback about any problems you're having.
+[Issues](https://github.com/Quobject/quobject_learning_path_science_high_school_7_to_10_en_us/issues)
 [Download all](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/quobject_learning_path_science_high_school_7_to_10_en_us%2020.01.zip)
 
 ## Physical Science 01 Introduction to Matter
