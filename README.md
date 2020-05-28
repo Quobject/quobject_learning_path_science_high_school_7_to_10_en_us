@@ -205,7 +205,7 @@ You can help improve this Learning Path by giving us feedback about any problems
 [LS_06_Change_Over_Time_2.quiz](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us/LS_06_Change_Over_Time_2.quiz)<br>
 
 
-## Life Science 07 Viruses, Bacteria, Protists, and Fungi
+## Life Science 07 Viruses Bacteria Protists and Fungi
 #### Search Terms:
  algae,bacteria,binary fission,budding,cellular respiration,cilia,conjugation,contractile vacuole,cytoplasm,decomposer,endospore,flagellum,fruiting body,fungus,host,hyphae,lichen,parasite,pasteurization,pigment,protist,protozoan,pseudopod,ribosome,spore,vaccine,virus
 
